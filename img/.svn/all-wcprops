@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/338/trunk/projects/rt5350_mini_router/img
+END
+firmware.img
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/338/trunk/projects/rt5350_mini_router/img/firmware.img
+END
+mini_gargoyle_web.bin
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/338/trunk/projects/rt5350_mini_router/img/mini_gargoyle_web.bin
+END
+audio_streamer.bin
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/338/trunk/projects/rt5350_mini_router/img/audio_streamer.bin
+END
+mini_luci_web_wifi.bin
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/338/trunk/projects/rt5350_mini_router/img/mini_luci_web_wifi.bin
+END
+default.bin
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/338/trunk/projects/rt5350_mini_router/img/default.bin
+END
+dlna_server.bin
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/338/trunk/projects/rt5350_mini_router/img/dlna_server.bin
+END
+serial_server.bin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/338/trunk/projects/rt5350_mini_router/img/serial_server.bin
+END
+mini_luci_web.bin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/338/trunk/projects/rt5350_mini_router/img/mini_luci_web.bin
+END
+internet_radio.bin
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/338/trunk/projects/rt5350_mini_router/img/internet_radio.bin
+END
+uboot128.img
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/334/trunk/projects/rt5350_mini_router/img/uboot128.img
+END
+video_streamer.bin
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/338/trunk/projects/rt5350_mini_router/img/video_streamer.bin
+END
+mqtt_server.bin
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/338/trunk/projects/rt5350_mini_router/img/mqtt_server.bin
+END
+mini.bin
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/338/trunk/projects/rt5350_mini_router/img/mini.bin
+END

@@ -1,0 +1,9 @@
+# cat /proc/mtd
+dev:    size   erasesize  name
+mtd0: 00400000 00010000 "ALL"
+mtd1: 00030000 00010000 "Bootloader"
+mtd2: 00010000 00010000 "Config"
+mtd3: 00010000 00010000 "Factory"
+mtd4: 00117a6d 00010000 "Kernel"
+mtd5: 00298593 00010000 "RootFS"
+mtd6: 003b0000 00010000 "Kernel_RootFS"

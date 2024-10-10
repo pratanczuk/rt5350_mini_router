@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/337/trunk/projects/rt5350_mini_router/orig_img
+END
+uboot.img
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/337/trunk/projects/rt5350_mini_router/orig_img/uboot.img
+END
+firmware.img
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/337/trunk/projects/rt5350_mini_router/orig_img/firmware.img
+END
+mtd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/337/trunk/projects/rt5350_mini_router/orig_img/mtd.txt
+END
