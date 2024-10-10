@@ -61,12 +61,12 @@ Below you will find the way how to bring new working u-boot and openwrt firmware
 Default u-boot bootloader is broken - ethernet is not fully initialized, and it seems that it is protected against starting other firmware than oryginal one.  
 Do not try to upgrade this bootloader from bootloader menu - you will brick your device !  
   
-To load openwrt firmware new bootloader is needed - I am using - [uboot128.img](https://github.com/pratanczuk/rt5350_mini_router/img/uboot128.img) taken from [JiapengLi](https://github.com/JiapengLi/OpenWrt-HiLink-HLK-RM04/blob/master/image/uboot128.img)  
+To load openwrt firmware new bootloader is needed - I am using - [uboot128.img](https://github.com/pratanczuk/rt5350_mini_router/blob/main/img/uboot128.img) taken from [JiapengLi](https://github.com/JiapengLi/OpenWrt-HiLink-HLK-RM04/blob/master/image/uboot128.img)  
   
 **Openwrt firmware**  
   
 
-Default firmware cannot accept openwrt images so at the beggining (after u-boot upgrade) we will load minimal openwrt firmware [firmware.img](https://github.com/pratanczuk/rt5350_mini_router/img/firmware.img) .  
+Default firmware cannot accept openwrt images so at the beggining (after u-boot upgrade) we will load minimal openwrt firmware [firmware.img](https://github.com/pratanczuk/rt5350_mini_router/blob/main/img/firmware.img) .  
   
 
 **Upgrade procedure**  
@@ -387,12 +387,12 @@ PCB is exactly the same, only resistor to set mem size to 32m has been added.
 Default u-boot bootloader is not fully functional, and it seems that it is protected against starting other firmware than oryginal one.  
 Do not try to upgrade this bootloader from bootloader menu - you will brick your device !  
   
-To load openwrt firmware new bootloader is needed - I am using - [uboot256.img](https://github.com/pratanczuk/rt5350_mini_router/img_32/uboot256.img) taken from [JiapengLi](https://github.com/JiapengLi/OpenWrt-HiLink-HLK-RM04/blob/master/image/uboot128.img)  
+To load openwrt firmware new bootloader is needed - I am using - [uboot256.img](https://github.com/pratanczuk/rt5350_mini_router/blob/main/img_32/uboot256.img) taken from [JiapengLi](https://github.com/JiapengLi/OpenWrt-HiLink-HLK-RM04/blob/master/image/uboot128.img)  
   
 **Openwrt firmware**  
   
 
-Default firmware cannot accept openwrt images so at the beggining (after u-boot upgrade) we will load minimal openwrt firmware [mini.bin](https://github.com/pratanczuk/rt5350_mini_router/img_32/mini.bin) .
+Default firmware cannot accept openwrt images so at the beggining (after u-boot upgrade) we will load minimal openwrt firmware [mini.bin](https://github.com/pratanczuk/rt5350_mini_router/blob/main/img_32/mini.bin) .
 
 **Upgrade procedure**  
   
