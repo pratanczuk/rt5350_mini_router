@@ -6,18 +6,23 @@ https://my-embedded.blogspot.com/2014/01/mini-usb-portable-3g4g-router-rt5350f.h
 
 ### Mini USB Portable 3G/4G router - rt5350f - 16M version
 
+
 ## Introduction
+
+This repository provides a detailed guide on upgrading and hacking the Mini USB Portable 3G/4G WiFi Hotspot router based on the RT5350F SoC. The guide includes steps to:
+
+-   Upgrade the bootloader to a functional version.
+-   Install OpenWrt firmware for enhanced features.
+-   Connect to the router via UART for advanced configurations.
+-   Program the SPI flash without desoldering.
+-   Upgrade the RAM from 16 MB to 32 MB.
+**Note**: The hardware is similar to HAME A5 Mini and HAME A15 routers, but with different firmware.
 
 Mini USB Portable 3G/4G WiFi Hotspot IEEE 802.11b/g/n 150Mbps Wireless Router - [search on ebay](http://www.ebay.com/sch/i.html?_odkw=3g+4g+wifi+router+mini&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.XMini+USB+Portable+3G%2F4G+Wireless+Router&_nkw=Mini+USB+Portable+3G%2F4G+Wireless+Router&_sacat=0)  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY5-vXJwhOE37Jdo0PsrWmtwdHSL_GpCtM3-1vqqHGv9CAAMHkfQTfpkoDpr_jvZHgQpfdm2u3ntgFwVktLeZf8iLQBATaabNwApfXdm8RrNQ7XnVE8EGIQLrXG6oQkFNeDVh0sIv3xtle/s200/mini_4g_case_top.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY5-vXJwhOE37Jdo0PsrWmtwdHSL_GpCtM3-1vqqHGv9CAAMHkfQTfpkoDpr_jvZHgQpfdm2u3ntgFwVktLeZf8iLQBATaabNwApfXdm8RrNQ7XnVE8EGIQLrXG6oQkFNeDVh0sIv3xtle/s1600/mini_4g_case_top.jpg)
 
-  
-This hardware seems to be exactly the same like (firmware is different ):  
-
--   HAME A5 Mini
--   HAME A15
 
 Upgrade with default firmware via WEB interface is not possible. Upgrade from u-boot (tftp) is not working too - because of broken ethernet configuration. Upgrade from u-boot via serial (kermit) will end with bricked router too ( verified).
 
