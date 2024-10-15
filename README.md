@@ -16,6 +16,8 @@ This repository provides a detailed guide on upgrading and hacking the Mini USB 
 -   Connect to the router via UART for advanced configurations.
 -   Program the SPI flash without desoldering.
 -   Upgrade the RAM from 16 MB to 32 MB.
+
+  
 **Note**: The hardware is similar to HAME A5 Mini and HAME A15 routers, but with different firmware.
 
 Mini USB Portable 3G/4G WiFi Hotspot IEEE 802.11b/g/n 150Mbps Wireless Router - [search on ebay](http://www.ebay.com/sch/i.html?_odkw=3g+4g+wifi+router+mini&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.XMini+USB+Portable+3G%2F4G+Wireless+Router&_nkw=Mini+USB+Portable+3G%2F4G+Wireless+Router&_sacat=0)  
